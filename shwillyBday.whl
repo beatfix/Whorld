@@ -162,7 +162,7 @@ Path=C:\Users\beatf\Documents\Whorld\wiggler_cvx.whp
 [Patch\78]
 Path=C:\Users\beatf\Documents\Whorld\yin yang_cvx.whp
 [Mapping]
-Count=65
+Count=66
 [Mapping\0]
 Event=CONTROL
 Target=PolySides
@@ -525,3 +525,9 @@ Target=RotateSpeed
 Prop=Val
 Channel=0
 Control=76
+[Mapping\65]
+Event=CONTROL
+Target=Alpha
+Prop=Val
+Channel=0
+Control=77
