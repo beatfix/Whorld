@@ -26,11 +26,11 @@ Zoom	1
 Damping	0.02
 Trail	0.92.85
 Rings	100
-Tempo	100
+Tempo	40
 HueSpan	30
-CanvasScale	1.4
-Copies	1
-Spread	100
+CanvasScale	3
+Copies	5
+Spread	0
 Origin	0.276864 0.394421
 DrawMode	0
 OrgMotion	2

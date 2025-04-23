@@ -23,14 +23,14 @@ EvenShear	0	0	1	0	0.5	0
 OddShear	0	0	1	0	0.5	0
 Speed	0.95427
 Zoom	0.469759
-Damping	0.0514852
-Trail	0.92.813071
+Damping	0.02
+Trail	0.92
 Rings	154.387
-Tempo	100
+Tempo	40
 HueSpan	30
-CanvasScale	1.4
-Copies	1
-Spread	100
+CanvasScale	3
+Copies	5
+Spread	0
 Origin	0.5 0.5
 DrawMode	0
 OrgMotion	0

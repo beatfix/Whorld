@@ -1,180 +1,750 @@
-WHPL2
-MASpeed	0.519278
-MAZoom	8.65645
-MADamping	0.186261
-MATrail	0.92.879168
-MARings	57.6857
-MATempo	100
-MAHueLoopLength	30
-MACanvasScale	1.4
-MACopies	1
-MASpread	0
-MFOrigin	0.5 0.5
-MFDrawMode	0
-MFOrgMotion	0
-MFHue	251.485
-MFMirror	0
-MFReverse	0
-MFConvex	0
-MFInvertColor	0
-MFLoopHue	0
-MFPause	0
-MFZoomCenter	0
-MFViewSel	3
-MFEditSel	0
-MFPatchMode	0
-XFPos	0.012
-XFSeconds	10
-XFLoop	0
-XFWaveform	0
-PLMScheme	1
-PLMChan	0
-PLMFirst	0
-PLMLast	127
-PLPatchSecs	60
-PLXFadeSecs	0
-PLPlaying	0
-PLShuffle	0
-PLCurBank	0
-PLCurPatch	-1
-PLCurPatchBank	0
-VLROPIdx	6
-VLAutoRewind	0
-VLCycle	0
-VLCycleLen	10
-MSRow	RingGrowth	40	1	0	0	-10
-MSRow	RingSpacing	50	1	0	13	-4
-MSRow	PolySides	15	1	0	3	-2
-MSRow	RotateSpeed	0.0872665	1	0	7	-0.0872665
-MSRow	AspectRatio	3	1	0	4	-3
-MSRow	SkewRadius	2	1	0	0	-2
-MSRow	SkewAngle	3.14159	1	0	0	-3.14159
-MSRow	StarFactor	3	1	0	8	-3
-MSRow	ColorSpeed	10	1	0	65	-0.5
-MSRow	Lightness	1	1	0	2	-0.5
-MSRow	Saturation	1	1	0	0	-1
-MSRow	BkHue	360	1	0	0	-360
-MSRow	BkLightness	1	1	0	0	-1
-MSRow	BkSaturation	1	1	0	0	-1
-MSRow	Pinwheel	3	1	0	11	-3
-MSRow	LineWidth	50	1	0	14	1
-MSRow	EvenCurve	3	1	0	9	-3
-MSRow	OddCurve	3	1	0	10	-3
-MSRow	EvenShear	3	1	0	0	-3
-MSRow	OddShear	3	1	0	0	-3
-MSRow	Bank	64	1	0	0	0
-MSRow	Speed	1	1	0	15	-1
-MSRow	Zoom	1	1	0	12	-1
-MSRow	Damping	1	1	0	0	0
-MSRow	Trail	1	1	0	0	0
-MSRow	Rings	1	1	0	0	0
-MSRow	Copies	21	1	0	5	1
-MSRow	Spread	600	1	0	6	0
-MSRow	PatchSecs	60	1	0	0	0
-MSRow	XFadeSecs	60	1	0	0	0
-MSRow	XFadePos	1	1	1	5	0
-MSRow	OriginX	1	1	0	0	0
-MSRow	OriginY	1	1	0	0	0
-MSRow	Hue	1	1	0	0	0
-MSRow	HueLoopLength	360	1	0	0	0
-MSRow	CanvasScale	3	1	0	0	1
-MSRow	PatchMode	1	1	1	9	0
-MSRow	RandomPatch	1	1	0	0	0
-MSRow	LoadNextA	1	1	1	4	0
-MSRow	LoadNextB	1	1	1	7	0
-MSRow	LoopHue	1	1	1	1	0
-MSRow	RotateHue	1	1	1	2	0
-MSRow	InvertColor	1	1	0	0	0
-MSRow	Mirror	1	1	1	15	0
-MSRow	Fill	1	1	1	13	0
-MSRow	Outline	1	1	1	14	0
-MSRow	XRay	1	1	1	11	0
-MSRow	RandomPhase	1	1	0	0	0
-MSRow	Reverse	1	1	1	12	0
-MSRow	ToggleOrigin	1	1	0	0	0
-MSRow	AutoPlay	1	1	0	0	0
-MSRow	Pause	1	1	1	3	0
-MSRow	Clear	1	1	1	0	0
-MSRow	XFadePlay	1	1	1	6	0
-MSRow	XFadeLoop	1	1	1	10	0
-MSRow	Convex	1	1	1	8	0
-MSRow	ZoomCenter	1	1	0	0	0
-MSRow	VideoSelect	10	1	0	0	0
-MSRow	VideoBlending	10	1	0	0	0
-MSRow	VideoCycle	1	1	0	0	0
-MSRow	VideoCycleLen	10	1	0	0	1
-MSRow	VideoOriginX	1	1	0	0	0
-MSRow	VideoOriginY	1	1	0	0	0
-MSRow	VideoRandOrg	1	1	0	0	0
-MSRow	GlobLineWidth	50	1	0	0	-50
-MSRow	GlobPolySides	50	1	0	0	-50
-MSRow	GlobRotateSpeed	0.0872665	1	0	0	-0.0872665
-MSRow	GlobAspectRatio	3	1	0	0	-3
-MSRow	GlobSkewRadius	2	1	0	0	-2
-MSRow	GlobSkewAngle	3.14159	1	0	0	-3.14159
-MSRow	GlobStarFactor	3	1	0	0	-3
-MSRow	GlobPinwheel	3	1	0	0	-3
-MSRow	GlobEvenCurve	3	1	0	0	-3
-MSRow	GlobOddCurve	3	1	0	0	-3
-MSRow	GlobEvenShear	3	1	0	0	-3
-MSRow	GlobOddShear	3	1	0	0	-3
-MSRow	RingGrowthWave	8	1	1	16	0
-MSRow	RingGrowthAmp	10	1	0	16	0
-MSRow	RingGrowthFreq	1	1	0	80	0
-MSRow	RingSpacingWave	8	1	1	29	0
-MSRow	RingSpacingAmp	50	1	0	29	0
-MSRow	RingSpacingFreq	1	1	0	93	0
-MSRow	PolySidesWave	8	1	1	19	0
-MSRow	PolySidesAmp	50	1	0	19	0
-MSRow	PolySidesFreq	1	1	0	83	0
-MSRow	RotateSpeedWave	8	1	1	23	0
-MSRow	RotateSpeedAmp	0.0872665	1	0	23	0
-MSRow	RotateSpeedFreq	1	1	0	87	0
-MSRow	AspectRatioWave	8	1	1	20	0
-MSRow	AspectRatioAmp	3	1	0	20	0
-MSRow	AspectRatioFreq	1	1	0	84	0
-MSRow	SkewRadiusWave	8	1	1	28	0
-MSRow	SkewRadiusAmp	2	1	0	28	0
-MSRow	SkewRadiusFreq	1	1	0	92	0
-MSRow	SkewAngleWave	8	1	1	31	0
-MSRow	SkewAngleAmp	3.14159	1	0	31	0
-MSRow	SkewAngleFreq	1	1	0	95	0
-MSRow	StarFactorWave	8	1	1	24	0
-MSRow	StarFactorAmp	3	1	0	24	0
-MSRow	StarFactorFreq	1	1	0	88	0
-MSRow	ColorSpeedWave	8	1	1	17	0
-MSRow	ColorSpeedAmp	10	1	0	17	0
-MSRow	ColorSpeedFreq	1	1	0	81	0
-MSRow	LightnessWave	8	1	1	18	0
-MSRow	LightnessAmp	1	1	0	18	0
-MSRow	LightnessFreq	1	1	0	82	0
-MSRow	PinwheelWave	8	1	1	27	0
-MSRow	PinwheelAmp	3	1	0	27	0
-MSRow	PinwheelFreq	1	1	0	91	0
-MSRow	LineWidthWave	8	1	1	30	0
-MSRow	LineWidthAmp	50	1	0	30	0
-MSRow	LineWidthFreq	1	1	0	94	0
-MSRow	EvenCurveWave	8	1	1	25	0
-MSRow	EvenCurveAmp	3	1	0	25	0
-MSRow	EvenCurveFreq	1	1	0	89	0
-MSRow	OddCurveWave	8	1	1	26	0
-MSRow	OddCurveAmp	3	1	0	26	0
-MSRow	OddCurveFreq	1	1	0	90	0
-MSRow	EvenShearWave	8	1	1	21	0
-MSRow	EvenShearAmp	3	1	0	21	0
-MSRow	EvenShearFreq	1	1	0	85	0
-MSRow	OddShearWave	8	1	1	22	0
-MSRow	OddShearAmp	3	1	0	22	0
-MSRow	OddShearFreq	1	1	0	86	0
-MAParm	RingSpacing	-4	1	0	0	0
-MAParm	PolySides	5.96875	1	0	0	0
-MAParm	RotateSpeed	-0.00409062	1	0	0	0
-MAParm	AspectRatio	-0.09375	1	0	0	0
-MAParm	StarFactor	0.238095	1	0	0	0
-MAParm	ColorSpeed	2.45313	1	0	0	0
-MAParm	Lightness	0.179688	1	0	0	0
-MAParm	Pinwheel	-0.09375	1	0	0	0
-MAParm	LineWidth	1	1	0	0	0
-MAParm	EvenCurve	-0.1875	1	0	0	0
-MAParm	OddCurve	-0.046875	1	0	0	0
-GLParm	LineWidth	0	1	0	0	0
+[Settings]
+FileID=WhorldPlay
+FileVersion=1
+[Patch]
+Count=79
+[Patch\0]
+Path=C:\Users\beatf\Documents\Whorld\default_cvx.whp
+[Patch\1]
+Path=C:\Users\beatf\Documents\Whorld\pinwheel_cvx.whp
+[Patch\2]
+Path=C:\Users\beatf\Documents\Whorld\bloom_cvx.whp
+[Patch\3]
+Path=C:\Users\beatf\Documents\Whorld\anemone_cvx.whp
+[Patch\4]
+Path=C:\Users\beatf\Documents\Whorld\bullseye_cvx.whp
+[Patch\5]
+Path=C:\Users\beatf\Documents\Whorld\digi smoke2_cvx.whp
+[Patch\6]
+Path=C:\Users\beatf\Documents\Whorld\digi smoke 5-50_cvx.whp
+[Patch\7]
+Path=C:\Users\beatf\Documents\Whorld\seed mill 2_cvx.whp
+[Patch\8]
+Path=C:\Users\beatf\Documents\Whorld\sharp cave_cvx.whp
+[Patch\9]
+Path=C:\Users\beatf\Documents\Whorld\gas mirror_cvx.whp
+[Patch\10]
+Path=C:\Users\beatf\Documents\Whorld\wormhole_cvx.whp
+[Patch\11]
+Path=C:\Users\beatf\Documents\Whorld\streaming cardioid in reverse_cvx.whp
+[Patch\12]
+Path=C:\Users\beatf\Documents\Whorld\lw lotus cross_cvx.whp
+[Patch\13]
+Path=C:\Users\beatf\Documents\Whorld\throwing triangles_cvx.whp
+[Patch\14]
+Path=C:\Users\beatf\Documents\Whorld\bands_cvx.whp
+[Patch\15]
+Path=C:\Users\beatf\Documents\Whorld\boomer_cvx.whp
+[Patch\16]
+Path=C:\Users\beatf\Documents\Whorld\billowing tunnel_cvx.whp
+[Patch\17]
+Path=C:\Users\beatf\Documents\Whorld\boxy_cvx.whp
+[Patch\18]
+Path=C:\Users\beatf\Documents\Whorld\boxy_good2_cvx.whp
+[Patch\19]
+Path=C:\Users\beatf\Documents\Whorld\boxy_good2_stars_cvx.whp
+[Patch\20]
+Path=C:\Users\beatf\Documents\Whorld\bull lotus2_cvx.whp
+[Patch\21]
+Path=C:\Users\beatf\Documents\Whorld\bull lotus5 edit_cvx.whp
+[Patch\22]
+Path=C:\Users\beatf\Documents\Whorld\cloud tunnel_cvx.whp
+[Patch\23]
+Path=C:\Users\beatf\Documents\Whorld\cross_cvx.whp
+[Patch\24]
+Path=C:\Users\beatf\Documents\Whorld\cutouts_cvx.whp
+[Patch\25]
+Path=C:\Users\beatf\Documents\Whorld\digi smoke_cvx.whp
+[Patch\26]
+Path=C:\Users\beatf\Documents\Whorld\digi smoke3_cvx.whp
+[Patch\27]
+Path=C:\Users\beatf\Documents\Whorld\fireworks_cvx.whp
+[Patch\28]
+Path=C:\Users\beatf\Documents\Whorld\fireworks2_cvx.whp
+[Patch\29]
+Path=C:\Users\beatf\Documents\Whorld\fish eye_cvx.whp
+[Patch\30]
+Path=C:\Users\beatf\Documents\Whorld\flowing veins_cvx.whp
+[Patch\31]
+Path=C:\Users\beatf\Documents\Whorld\fog lights_cvx.whp
+[Patch\32]
+Path=C:\Users\beatf\Documents\Whorld\frosty_cvx.whp
+[Patch\33]
+Path=C:\Users\beatf\Documents\Whorld\good2_cvx.whp
+[Patch\34]
+Path=C:\Users\beatf\Documents\Whorld\horn fest_cvx.whp
+[Patch\35]
+Path=C:\Users\beatf\Documents\Whorld\horn smoke_cvx.whp
+[Patch\36]
+Path=C:\Users\beatf\Documents\Whorld\horn worm_cvx.whp
+[Patch\37]
+Path=C:\Users\beatf\Documents\Whorld\horn_cvx.whp
+[Patch\38]
+Path=C:\Users\beatf\Documents\Whorld\kaleid_cvx.whp
+[Patch\39]
+Path=C:\Users\beatf\Documents\Whorld\lotus light_cvx.whp
+[Patch\40]
+Path=C:\Users\beatf\Documents\Whorld\louvers coarse_cvx.whp
+[Patch\41]
+Path=C:\Users\beatf\Documents\Whorld\louvers_cvx.whp
+[Patch\42]
+Path=C:\Users\beatf\Documents\Whorld\lw lotus cross2_cvx.whp
+[Patch\43]
+Path=C:\Users\beatf\Documents\Whorld\lw pinwheel fab color_cvx.whp
+[Patch\44]
+Path=C:\Users\beatf\Documents\Whorld\lw pinwheel fab color2_cvx.whp
+[Patch\45]
+Path=C:\Users\beatf\Documents\Whorld\mercedes bent_cvx.whp
+[Patch\46]
+Path=C:\Users\beatf\Documents\Whorld\mercedes xray_cvx.whp
+[Patch\47]
+Path=C:\Users\beatf\Documents\Whorld\mercedes_cvx.whp
+[Patch\48]
+Path=C:\Users\beatf\Documents\Whorld\neural leaves_cvx.whp
+[Patch\49]
+Path=C:\Users\beatf\Documents\Whorld\oil sheen_cvx.whp
+[Patch\50]
+Path=C:\Users\beatf\Documents\Whorld\orbital_cvx.whp
+[Patch\51]
+Path=C:\Users\beatf\Documents\Whorld\pinwheel fab color_cvx.whp
+[Patch\52]
+Path=C:\Users\beatf\Documents\Whorld\pulsar bows_cvx.whp
+[Patch\53]
+Path=C:\Users\beatf\Documents\Whorld\raindrops_cvx.whp
+[Patch\54]
+Path=C:\Users\beatf\Documents\Whorld\ramps_cvx.whp
+[Patch\55]
+Path=C:\Users\beatf\Documents\Whorld\rays1_cvx.whp
+[Patch\56]
+Path=C:\Users\beatf\Documents\Whorld\rays2_cvx.whp
+[Patch\57]
+Path=C:\Users\beatf\Documents\Whorld\real pinwheel_cvx.whp
+[Patch\58]
+Path=C:\Users\beatf\Documents\Whorld\saturn_cvx.whp
+[Patch\59]
+Path=C:\Users\beatf\Documents\Whorld\seed bubbles_cvx.whp
+[Patch\60]
+Path=C:\Users\beatf\Documents\Whorld\seed mill 1_cvx.whp
+[Patch\61]
+Path=C:\Users\beatf\Documents\Whorld\seed mill 3_cvx.whp
+[Patch\62]
+Path=C:\Users\beatf\Documents\Whorld\seed of life at 25 fps 6 colors_cvx.whp
+[Patch\63]
+Path=C:\Users\beatf\Documents\Whorld\shimmer_cvx.whp
+[Patch\64]
+Path=C:\Users\beatf\Documents\Whorld\smoke signals_cvx.whp
+[Patch\65]
+Path=C:\Users\beatf\Documents\Whorld\stars_cvx.whp
+[Patch\66]
+Path=C:\Users\beatf\Documents\Whorld\streaming_cvx.whp
+[Patch\67]
+Path=C:\Users\beatf\Documents\Whorld\sunburst jagged_cvx.whp
+[Patch\68]
+Path=C:\Users\beatf\Documents\Whorld\sunburst rainbows_cvx.whp
+[Patch\69]
+Path=C:\Users\beatf\Documents\Whorld\tentacles_cvx.whp
+[Patch\70]
+Path=C:\Users\beatf\Documents\Whorld\thorny vortex_cvx.whp
+[Patch\71]
+Path=C:\Users\beatf\Documents\Whorld\triple eddies_cvx.whp
+[Patch\72]
+Path=C:\Users\beatf\Documents\Whorld\triple rotor_cvx.whp
+[Patch\73]
+Path=C:\Users\beatf\Documents\Whorld\tunnel burst_cvx.whp
+[Patch\74]
+Path=C:\Users\beatf\Documents\Whorld\ultraspike wiggler_cvx.whp
+[Patch\75]
+Path=C:\Users\beatf\Documents\Whorld\vortex_cvx.whp
+[Patch\76]
+Path=C:\Users\beatf\Documents\Whorld\white star xray freeze_cvx.whp
+[Patch\77]
+Path=C:\Users\beatf\Documents\Whorld\wiggler_cvx.whp
+[Patch\78]
+Path=C:\Users\beatf\Documents\Whorld\yin yang_cvx.whp
+[Mapping]
+Count=90
+[Mapping\0]
+Event=CONTROL
+Target=EvenCurve
+Prop=Val
+Channel=0
+Control=0
+[Mapping\1]
+Event=NOTE_ON
+Target=EvenCurve
+Prop=Val
+Channel=1
+Control=0
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\2]
+Event=CONTROL
+Target=EvenCurve
+Prop=Global
+Channel=0
+Control=32
+[Mapping\3]
+Event=NOTE_ON
+Target=EvenCurve
+Prop=Global
+Channel=1
+Control=32
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\4]
+Event=CONTROL
+Target=EvenShear
+Prop=Val
+Channel=0
+Control=1
+[Mapping\5]
+Event=NOTE_ON
+Target=EvenShear
+Prop=Val
+Channel=1
+Control=1
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\6]
+Event=CONTROL
+Target=EvenShear
+Prop=Global
+Channel=0
+Control=33
+[Mapping\7]
+Event=NOTE_ON
+Target=EvenShear
+Prop=Global
+Channel=1
+Control=33
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\8]
+Event=CONTROL
+Target=OddShear
+Prop=Val
+Channel=0
+Control=2
+[Mapping\9]
+Event=NOTE_ON
+Target=OddShear
+Prop=Val
+Channel=1
+Control=2
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\10]
+Event=CONTROL
+Target=OddShear
+Prop=Global
+Channel=0
+Control=34
+[Mapping\11]
+Event=NOTE_ON
+Target=OddShear
+Prop=Global
+Channel=1
+Control=34
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\12]
+Event=CONTROL
+Target=OddCurve
+Prop=Val
+Channel=0
+Control=3
+[Mapping\13]
+Event=NOTE_ON
+Target=OddCurve
+Prop=Val
+Channel=1
+Control=3
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\14]
+Event=CONTROL
+Target=OddCurve
+Prop=Global
+Channel=0
+Control=35
+[Mapping\15]
+Event=NOTE_ON
+Target=OddCurve
+Prop=Global
+Channel=1
+Control=35
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\16]
+Event=CONTROL
+Target=StarFactor
+Prop=Val
+Channel=0
+Control=4
+[Mapping\17]
+Event=NOTE_ON
+Target=StarFactor
+Prop=Val
+Channel=1
+Control=4
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\18]
+Event=CONTROL
+Target=StarFactor
+Prop=Global
+Channel=0
+Control=36
+[Mapping\19]
+Event=NOTE_ON
+Target=StarFactor
+Prop=Global
+Channel=1
+Control=36
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\20]
+Event=CONTROL
+Target=RotateSpeed
+Prop=Val
+Channel=0
+Control=5
+[Mapping\21]
+Event=NOTE_ON
+Target=RotateSpeed
+Prop=Val
+Channel=1
+Control=5
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\22]
+Event=CONTROL
+Target=RotateSpeed
+Prop=Global
+Channel=0
+Control=37
+[Mapping\23]
+Event=NOTE_ON
+Target=RotateSpeed
+Prop=Global
+Channel=1
+Control=37
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\24]
+Event=CONTROL
+Target=AspectRatio
+Prop=Val
+Channel=0
+Control=6
+[Mapping\25]
+Event=NOTE_ON
+Target=AspectRatio
+Prop=Val
+Channel=1
+Control=6
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\26]
+Event=CONTROL
+Target=AspectRatio
+Prop=Global
+Channel=0
+Control=38
+[Mapping\27]
+Event=NOTE_ON
+Target=AspectRatio
+Prop=Global
+Channel=1
+Control=38
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\28]
+Event=CONTROL
+Target=Pinwheel
+Prop=Val
+Channel=0
+Control=7
+[Mapping\29]
+Event=NOTE_ON
+Target=Pinwheel
+Prop=Val
+Channel=1
+Control=7
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\30]
+Event=CONTROL
+Target=Pinwheel
+Prop=Global
+Channel=0
+Control=39
+[Mapping\31]
+Event=NOTE_ON
+Target=Pinwheel
+Prop=Global
+Channel=1
+Control=39
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\32]
+Event=CONTROL
+Target=RingSpacing
+Prop=Val
+Channel=0
+Control=8
+[Mapping\33]
+Event=NOTE_ON
+Target=RingSpacing
+Prop=Val
+Channel=1
+Control=8
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\34]
+Event=CONTROL
+Target=RingSpacing
+Prop=Global
+Channel=0
+Control=40
+[Mapping\35]
+Event=NOTE_ON
+Target=RingSpacing
+Prop=Global
+Channel=1
+Control=40
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\36]
+Event=CONTROL
+Target=PolySides
+Prop=Val
+Channel=0
+Control=9
+[Mapping\37]
+Event=NOTE_ON
+Target=PolySides
+Prop=Val
+Channel=1
+Control=9
+Start=AAAAAAAAAAAAEBAE
+End=AAAAAAAAAAAAEBAE
+[Mapping\38]
+Event=CONTROL
+Target=PolySides
+Prop=Global
+Channel=0
+Control=41
+Start=AAAAAAAAAAAAHEAE
+[Mapping\39]
+Event=NOTE_ON
+Target=PolySides
+Prop=Global
+Channel=1
+Control=41
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\40]
+Event=CONTROL
+Target=ColorSpeed
+Prop=Val
+Channel=0
+Control=10
+[Mapping\41]
+Event=NOTE_ON
+Target=ColorSpeed
+Prop=Val
+Channel=1
+Control=10
+Start=AAAAAAAAAAAAECAE
+End=AAAAAAAAAAAAECAE
+[Mapping\42]
+Event=CONTROL
+Target=SkewRadius
+Prop=Global
+Channel=0
+Control=42
+[Mapping\43]
+Event=NOTE_ON
+Target=SkewRadius
+Prop=Global
+Channel=1
+Control=42
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\44]
+Event=CONTROL
+Target=LineWidth
+Prop=Val
+Channel=0
+Control=11
+Start=AAAAAAAAAAAAAPPD
+[Mapping\45]
+Event=NOTE_ON
+Target=LineWidth
+Prop=Val
+Channel=1
+Control=11
+Start=AAAAAAAAAAAAECAE
+End=AAAAAAAAAAAAECAE
+[Mapping\46]
+Event=CONTROL
+Target=LineWidth
+Prop=Global
+Channel=0
+Control=43
+Start=AAAAAAAAAAAAJEAE
+[Mapping\47]
+Event=NOTE_ON
+Target=LineWidth
+Prop=Global
+Channel=1
+Control=43
+Start=AAAAAAAAAAAAJEAE
+End=AAAAAAAAAAAAJEAE
+[Mapping\48]
+Event=CONTROL
+Target=Zoom
+Channel=0
+Control=12
+[Mapping\49]
+Event=CONTROL
+Target=RingGrowth
+Prop=Val
+Channel=4
+Control=12
+[Mapping\50]
+Event=CONTROL
+Target=Spread
+Channel=0
+Control=13
+[Mapping\51]
+Event=CONTROL
+Target=Copies
+Channel=4
+Control=13
+[Mapping\52]
+Event=CONTROL
+Target=Rings
+Channel=0
+Control=14
+Start=AAAAAAAAAAAAAPPD
+[Mapping\53]
+Event=CONTROL
+Target=Damping
+Channel=4
+Control=14
+End=AAAAAAAAAAAAEFAE
+[Mapping\54]
+Event=CONTROL
+Target=Speed
+Channel=0
+Control=15
+[Mapping\55]
+Event=CONTROL
+Target=Patch
+Channel=4
+Control=15
+[Mapping\56]
+Event=CONTROL
+Target=EvenCurve
+Prop=Amp
+Channel=0
+Control=16
+[Mapping\57]
+Event=CONTROL
+Target=EvenCurve
+Prop=Freq
+Channel=0
+Control=80
+[Mapping\58]
+Event=CONTROL
+Target=EvenShear
+Prop=Amp
+Channel=0
+Control=17
+[Mapping\59]
+Event=CONTROL
+Target=EvenShear
+Prop=Freq
+Channel=0
+Control=81
+[Mapping\60]
+Event=CONTROL
+Target=OddShear
+Prop=Amp
+Channel=0
+Control=18
+[Mapping\61]
+Event=CONTROL
+Target=OddShear
+Prop=Freq
+Channel=0
+Control=82
+[Mapping\62]
+Event=CONTROL
+Target=OddCurve
+Prop=Amp
+Channel=0
+Control=19
+[Mapping\63]
+Event=CONTROL
+Target=OddCurve
+Prop=Freq
+Channel=0
+Control=83
+[Mapping\64]
+Event=CONTROL
+Target=StarFactor
+Prop=Amp
+Channel=0
+Control=20
+[Mapping\65]
+Event=CONTROL
+Target=StarFactor
+Prop=Freq
+Channel=0
+Control=84
+[Mapping\66]
+Event=CONTROL
+Target=RotateSpeed
+Prop=Amp
+Channel=0
+Control=21
+[Mapping\67]
+Event=CONTROL
+Target=RotateSpeed
+Prop=Freq
+Channel=0
+Control=85
+[Mapping\68]
+Event=CONTROL
+Target=AspectRatio
+Prop=Amp
+Channel=0
+Control=22
+[Mapping\69]
+Event=CONTROL
+Target=AspectRatio
+Prop=Freq
+Channel=0
+Control=86
+[Mapping\70]
+Event=CONTROL
+Target=Pinwheel
+Prop=Amp
+Channel=0
+Control=23
+[Mapping\71]
+Event=CONTROL
+Target=Pinwheel
+Prop=Freq
+Channel=0
+Control=87
+[Mapping\72]
+Event=CONTROL
+Target=RingSpacing
+Prop=Amp
+Channel=0
+Control=24
+[Mapping\73]
+Event=CONTROL
+Target=RingSpacing
+Prop=Freq
+Channel=0
+Control=88
+[Mapping\74]
+Event=CONTROL
+Target=PolySides
+Prop=Amp
+Channel=0
+Control=25
+[Mapping\75]
+Event=CONTROL
+Target=PolySides
+Prop=Freq
+Channel=0
+Control=89
+[Mapping\76]
+Event=CONTROL
+Target=ColorSpeed
+Prop=Amp
+Channel=0
+Control=26
+[Mapping\77]
+Event=CONTROL
+Target=ColorSpeed
+Prop=Freq
+Channel=0
+Control=90
+[Mapping\78]
+Event=CONTROL
+Target=LineWidth
+Prop=Amp
+Channel=0
+Control=27
+[Mapping\79]
+Event=CONTROL
+Target=LineWidth
+Prop=Freq
+Channel=0
+Control=91
+[Mapping\80]
+Event=CONTROL
+Target=RingGrowth
+Prop=Val
+Channel=0
+Control=28
+[Mapping\81]
+Event=CONTROL
+Target=RingGrowth
+Prop=Val
+Channel=0
+Control=92
+[Mapping\82]
+Event=CONTROL
+Target=RingGrowth
+Prop=Val
+Channel=0
+Control=29
+[Mapping\83]
+Event=CONTROL
+Target=RingGrowth
+Prop=Val
+Channel=0
+Control=93
+[Mapping\84]
+Event=CONTROL
+Target=RingGrowth
+Prop=Val
+Channel=0
+Control=30
+[Mapping\85]
+Event=CONTROL
+Target=RingGrowth
+Prop=Val
+Channel=0
+Control=94
+[Mapping\86]
+Event=CONTROL
+Target=RingGrowth
+Prop=Amp
+Channel=0
+Control=31
+[Mapping\87]
+Event=CONTROL
+Target=RingGrowth
+Prop=Freq
+Channel=0
+Control=95
+[Mapping\88]
+Event=NOTE_OFF
+Target=Clear
+Channel=3
+Control=13
+[Mapping\89]
+Event=NOTE_OFF
+Target=Patch
+Channel=3
+Control=10
+End=AAAAAAAAAAAAAAAA
