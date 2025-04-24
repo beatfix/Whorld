@@ -23,7 +23,7 @@ Speed	1
 Zoom	1
 Damping	0.02
 Trail	0.92.8
-Rings	200
+Rings	100
 Tempo	40
 HueSpan	49
 CanvasScale	3
@@ -39,3 +39,4 @@ Convex	1
 InvertColor	0
 LoopHue	1
 ZoomCenter	0
+Antialiasing	0
