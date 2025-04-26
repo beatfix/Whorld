@@ -1,24 +1,24 @@
 WHORLD3
-RingGrowth	4	0	1	0	0.5	0
+RingGrowth	4	1	1	0	0.5	0
 RingSpacing	15		4	-1	0.05	0.5	0
 LineWidth	10		0	1	0	0.5	0
-PolySides	50	6	3	0.01	0.5	0
-RotateSpeed	-0.0820305	0	0.01	0.01	0.5	0
-AspectRatio	-0.444	0	1	0	0.5	0
-SkewRadius	0	0	1	0	0.5	0
-SkewAngle	3.14159	0	1	0	0.5	0
-StarFactor	0.01	4	2	0.05	0.5	0
-Pinwheel	-0.108	0	1	0	0.5	0
-ColorSpeed	0.3	0	1	0.14	0.5	0
-Lightness	0.5	0	0.333	0.18	0.5	0
-Saturation	0.75	0	0.25	0.15	0.5	0
-BkHue	0	0	360	0	0.5	0
-BkLightness	0	0	1	0	0.5	0
-BkSaturation	1	0	1	0	0.5	0
-EvenCurve	0	0	1	0	0.5	0
-OddCurve	0	0	1	0	0.5	0
-EvenShear	0	0	1	0	0.5	0
-OddShear	0	0	1	0	0.5	0
+PolySides	50	1	3	0.01	0.5	0
+RotateSpeed	-0.0820305	1	0.01	0.01	0.5	0
+AspectRatio	-0.444	1	1	0	0.5	0
+SkewRadius	0	1	1	0	0.5	0
+SkewAngle	3.14159	1	1	0	0.5	0
+StarFactor	0.01	1	2	0.05	0.5	0
+Pinwheel	-0.108	1	1	0	0.5	0
+ColorSpeed	0.3	1	1	0.14	0.5	0
+Lightness	0.5	1	0.333	0.18	0.5	0
+Saturation	0.75	1	0.25	0.15	0.5	0
+BkHue	0	1	360	0	0.5	0
+BkLightness	0	1	1	0	0.5	0
+BkSaturation	1	1	1	0	0.5	0
+EvenCurve	0	1	1	0	0.5	0
+OddCurve	0	1	1	0	0.5	0
+EvenShear	0	1	1	0	0.5	0
+OddShear	0	1	1	0	0.5	0
 Speed	1
 Zoom	1
 Damping	0.05
