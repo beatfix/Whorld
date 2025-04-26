@@ -317,6 +317,8 @@ Target=SkewAngle
 Prop=Val
 Channel=0
 Control=50
+Start=AAAAAAAAAAAAJFAE
+End=AAAAAAAAAAAAAAAA
 [Mapping\29]
 Event=CONTROL
 Target=OddCurve
