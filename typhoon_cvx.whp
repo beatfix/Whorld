@@ -1,7 +1,7 @@
 WHORLD4
 RingGrowth	2	0	0.5	0	0.5	0
-RingSpacing	33.5397	0	25	0	0.5	0
-LineWidth	13.6484	0	6	0	0.5	0
+RingSpacing	15	0	25	0	0.5	0
+LineWidth	10	0	6	0	0.5	0
 PolySides	5.25	0	10	0	0.5	0
 RotateSpeed	0.00575959	0	0.0174533	0	0.5	0
 AspectRatio	0	0	1	0	0.5	0
@@ -13,7 +13,7 @@ ColorSpeed	0.5	0	1	0	0.5	0
 Lightness	0.5	0	1	0	0.5	0
 Saturation	1	0	1	0	0.5	0
 Alpha	0.547	0	1	0	0.5	0
-BkHue	0	0	1	0	0.5	0
+BkHue	0	0	360	0	0.5	0
 BkLightness	0	0	1	0	0.5	0
 BkSaturation	1	0	1	0	0.5	0
 BkAlpha	1	0	1	0	0.5	0
@@ -23,7 +23,7 @@ EvenShear	0	0	1	0	0.5	0
 OddShear	0	0	1	0	0.5	0
 Speed	3.78648
 Zoom	0.469759
-Damping	0.02
+Damping	0.05
 Trail	0.92
 Rings	100
 Tempo	40
@@ -36,7 +36,7 @@ DrawMode	0
 OrgMotion	0
 Hue	63.1479
 Mirror	0
-Reverse	1
+Reverse	0
 Convex	1
 InvertColor	0
 LoopHue	1

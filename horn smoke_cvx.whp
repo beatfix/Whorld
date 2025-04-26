@@ -1,7 +1,7 @@
 WHORLD3
 RingGrowth	4	0	1	0	0.5	0
-RingSpacing	1	0	1	0	0.5	0
-LineWidth	1	0	1	0	0.5	0
+RingSpacing	15		0	1	0	0.5	0
+LineWidth	10		0	1	0	0.5	0
 PolySides	50	5	1	0	0.5	0
 RotateSpeed	0	0	1	0	0.5	0
 AspectRatio	0	0	0.333	0.031	0.5	0
@@ -12,7 +12,7 @@ Pinwheel	0	1	1	0	0.5	0
 ColorSpeed	0.75	0	0.25	0.011	0.5	0
 Lightness	0.5	0	0.25	0.041	0.5	0
 Saturation	0.75	0	0.25	0.051	0.5	0
-BkHue	0	2	180	0.005	0.5	0
+BkHue	0	0	360	0	0.5	0
 BkLightness	0	0	1	0	0.5	0
 BkSaturation	1	0	1	0	0.5	0
 EvenCurve	0	0	1	0	0.5	0
@@ -21,7 +21,7 @@ EvenShear	0	0	1	0	0.5	0
 OddShear	0	0	1	0	0.5	0
 Speed	1
 Zoom	1
-Damping	0.02
+Damping	0.05
 Trail	0.92
 Rings	100
 Tempo	40

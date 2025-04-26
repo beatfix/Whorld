@@ -1,6 +1,6 @@
 WHORLD2
 RingGrowth	4	0	1	0	0.5
-RingSpacing	5	0	1	0	0.5
+RingSpacing	15		0	1	0	0.5
 PolySides	5	0	1	0	0.5
 RotateSpeed	0	0	1	0	0.5
 AspectRatio	0	0	1	0	0.5
@@ -10,18 +10,18 @@ StarFactor	0	0	1	0	0.5
 ColorSpeed	0.5	0	1	0	0.5
 Lightness	0.5	0	1	0	0.5
 Saturation	1	0	1	0	0.5
-BkHue	0	0	1	0	0.5
+BkHue	0	0	360	0	0.5	0
 BkLightness	0	0	1	0	0.5
 BkSaturation	1	0	1	0	0.5
 Pinwheel	0	0	1	0	0.5
-LineWidth	1	0	1	0	0.5
+LineWidth	10		0	1	0	0.5
 EvenCurve	0	0	1	0	0.5
 OddCurve	0	0	1	0	0.5
 EvenShear	0	0	1	0	0.5
 OddShear	0	0	1	0	0.5
 Speed	6.69963
 Zoom	0.650698
-Damping	0.02
+Damping	0.05
 Trail	0.92
 Rings	100
 Tempo	40
