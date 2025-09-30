@@ -1,0 +1,180 @@
+WHPL2
+MASpeed	0.519278
+MAZoom	8.65645
+MADamping	0.186261
+MATrail	0.879168
+MARings	57.6857
+MATempo	100
+MAHueLoopLength	30
+MACanvasScale	1.4
+MACopies	1
+MASpread	0
+MFOrigin	0.5 0.5
+MFDrawMode	0
+MFOrgMotion	0
+MFHue	251.485
+MFMirror	0
+MFReverse	0
+MFConvex	0
+MFInvertColor	0
+MFLoopHue	0
+MFPause	0
+MFZoomCenter	0
+MFViewSel	3
+MFEditSel	0
+MFPatchMode	0
+XFPos	0.012
+XFSeconds	10
+XFLoop	0
+XFWaveform	0
+PLMScheme	1
+PLMChan	0
+PLMFirst	0
+PLMLast	127
+PLPatchSecs	60
+PLXFadeSecs	0
+PLPlaying	0
+PLShuffle	0
+PLCurBank	0
+PLCurPatch	-1
+PLCurPatchBank	0
+VLROPIdx	6
+VLAutoRewind	0
+VLCycle	0
+VLCycleLen	10
+MSRow	RingGrowth	40	0	0	0	-10
+MSRow	RingSpacing	50	1	0	13	-4
+MSRow	PolySides	15	1	0	3	-2
+MSRow	RotateSpeed	0.0872665	1	0	7	-0.0872665
+MSRow	AspectRatio	3	1	0	4	-3
+MSRow	SkewRadius	2	0	0	0	-2
+MSRow	SkewAngle	3.14159	0	0	0	-3.14159
+MSRow	StarFactor	3	1	0	8	-3
+MSRow	ColorSpeed	10	1	0	65	-0.5
+MSRow	Lightness	1	1	0	2	-0.5
+MSRow	Saturation	1	0	0	0	-1
+MSRow	BkHue	360	0	0	0	-360
+MSRow	BkLightness	1	0	0	0	-1
+MSRow	BkSaturation	1	0	0	0	-1
+MSRow	Pinwheel	3	1	0	11	-3
+MSRow	LineWidth	50	1	0	14	1
+MSRow	EvenCurve	3	1	0	9	-3
+MSRow	OddCurve	3	1	0	10	-3
+MSRow	EvenShear	3	0	0	0	-3
+MSRow	OddShear	3	0	0	0	-3
+MSRow	Bank	64	0	0	0	0
+MSRow	Speed	1	1	0	15	-1
+MSRow	Zoom	1	1	0	12	-1
+MSRow	Damping	1	0	0	0	0
+MSRow	Trail	1	0	0	0	0
+MSRow	Rings	1	1	0	0	0
+MSRow	Copies	21	1	0	5	1
+MSRow	Spread	600	1	0	6	0
+MSRow	PatchSecs	60	0	0	0	0
+MSRow	XFadeSecs	60	0	0	0	0
+MSRow	XFadePos	1	1	1	5	0
+MSRow	OriginX	1	0	0	0	0
+MSRow	OriginY	1	0	0	0	0
+MSRow	Hue	1	0	0	0	0
+MSRow	HueLoopLength	360	0	0	0	0
+MSRow	CanvasScale	3	0	0	0	1
+MSRow	PatchMode	1	1	1	9	0
+MSRow	RandomPatch	1	0	0	0	0
+MSRow	LoadNextA	1	1	1	4	0
+MSRow	LoadNextB	1	1	1	7	0
+MSRow	LoopHue	1	1	1	1	0
+MSRow	RotateHue	1	1	1	2	0
+MSRow	InvertColor	1	0	0	0	0
+MSRow	Mirror	1	1	1	15	0
+MSRow	Fill	1	1	1	13	0
+MSRow	Outline	1	1	1	14	0
+MSRow	XRay	1	1	1	11	0
+MSRow	RandomPhase	1	0	0	0	0
+MSRow	Reverse	1	1	1	12	0
+MSRow	ToggleOrigin	1	0	0	0	0
+MSRow	AutoPlay	1	0	0	0	0
+MSRow	Pause	1	1	1	3	0
+MSRow	Clear	1	1	1	0	0
+MSRow	XFadePlay	1	1	1	6	0
+MSRow	XFadeLoop	1	1	1	10	0
+MSRow	Convex	1	1	1	8	0
+MSRow	ZoomCenter	1	0	0	0	0
+MSRow	VideoSelect	10	0	0	0	0
+MSRow	VideoBlending	10	0	0	0	0
+MSRow	VideoCycle	1	0	0	0	0
+MSRow	VideoCycleLen	10	0	0	0	1
+MSRow	VideoOriginX	1	0	0	0	0
+MSRow	VideoOriginY	1	0	0	0	0
+MSRow	VideoRandOrg	1	0	0	0	0
+MSRow	GlobLineWidth	50	0	0	0	-50
+MSRow	GlobPolySides	50	0	0	0	-50
+MSRow	GlobRotateSpeed	0.0872665	0	0	0	-0.0872665
+MSRow	GlobAspectRatio	3	0	0	0	-3
+MSRow	GlobSkewRadius	2	0	0	0	-2
+MSRow	GlobSkewAngle	3.14159	0	0	0	-3.14159
+MSRow	GlobStarFactor	3	0	0	0	-3
+MSRow	GlobPinwheel	3	0	0	0	-3
+MSRow	GlobEvenCurve	3	0	0	0	-3
+MSRow	GlobOddCurve	3	0	0	0	-3
+MSRow	GlobEvenShear	3	0	0	0	-3
+MSRow	GlobOddShear	3	0	0	0	-3
+MSRow	RingGrowthWave	8	1	1	16	0
+MSRow	RingGrowthAmp	10	1	0	16	0
+MSRow	RingGrowthFreq	1	1	0	80	0
+MSRow	RingSpacingWave	8	1	1	29	0
+MSRow	RingSpacingAmp	50	1	0	29	0
+MSRow	RingSpacingFreq	1	1	0	93	0
+MSRow	PolySidesWave	8	1	1	19	0
+MSRow	PolySidesAmp	50	1	0	19	0
+MSRow	PolySidesFreq	1	1	0	83	0
+MSRow	RotateSpeedWave	8	1	1	23	0
+MSRow	RotateSpeedAmp	0.0872665	1	0	23	0
+MSRow	RotateSpeedFreq	1	1	0	87	0
+MSRow	AspectRatioWave	8	1	1	20	0
+MSRow	AspectRatioAmp	3	1	0	20	0
+MSRow	AspectRatioFreq	1	1	0	84	0
+MSRow	SkewRadiusWave	8	1	1	28	0
+MSRow	SkewRadiusAmp	2	1	0	28	0
+MSRow	SkewRadiusFreq	1	1	0	92	0
+MSRow	SkewAngleWave	8	1	1	31	0
+MSRow	SkewAngleAmp	3.14159	1	0	31	0
+MSRow	SkewAngleFreq	1	1	0	95	0
+MSRow	StarFactorWave	8	1	1	24	0
+MSRow	StarFactorAmp	3	1	0	24	0
+MSRow	StarFactorFreq	1	1	0	88	0
+MSRow	ColorSpeedWave	8	1	1	17	0
+MSRow	ColorSpeedAmp	10	1	0	17	0
+MSRow	ColorSpeedFreq	1	1	0	81	0
+MSRow	LightnessWave	8	1	1	18	0
+MSRow	LightnessAmp	1	1	0	18	0
+MSRow	LightnessFreq	1	1	0	82	0
+MSRow	PinwheelWave	8	1	1	27	0
+MSRow	PinwheelAmp	3	1	0	27	0
+MSRow	PinwheelFreq	1	1	0	91	0
+MSRow	LineWidthWave	8	1	1	30	0
+MSRow	LineWidthAmp	50	1	0	30	0
+MSRow	LineWidthFreq	1	1	0	94	0
+MSRow	EvenCurveWave	8	1	1	25	0
+MSRow	EvenCurveAmp	3	1	0	25	0
+MSRow	EvenCurveFreq	1	1	0	89	0
+MSRow	OddCurveWave	8	1	1	26	0
+MSRow	OddCurveAmp	3	1	0	26	0
+MSRow	OddCurveFreq	1	1	0	90	0
+MSRow	EvenShearWave	8	1	1	21	0
+MSRow	EvenShearAmp	3	1	0	21	0
+MSRow	EvenShearFreq	1	1	0	85	0
+MSRow	OddShearWave	8	1	1	22	0
+MSRow	OddShearAmp	3	1	0	22	0
+MSRow	OddShearFreq	1	1	0	86	0
+MAParm	RingSpacing	-4	0	0	0	0
+MAParm	PolySides	5.96875	0	0	0	0
+MAParm	RotateSpeed	-0.00409062	0	0	0	0
+MAParm	AspectRatio	-0.09375	0	0	0	0
+MAParm	StarFactor	0.238095	0	0	0	0
+MAParm	ColorSpeed	2.45313	0	0	0	0
+MAParm	Lightness	0.179688	0	0	0	0
+MAParm	Pinwheel	-0.09375	0	0	0	0
+MAParm	LineWidth	1	0	0	0	0
+MAParm	EvenCurve	-0.1875	0	0	0	0
+MAParm	OddCurve	-0.046875	0	0	0	0
+GLParm	LineWidth	0	0	0	0	0
